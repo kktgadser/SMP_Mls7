@@ -8,11 +8,13 @@ Your subject for today's test are C++.
 
 ### Problem #1
 Write a C++ program to print based on the input.
-Age Input | Output |
---- | --- |
-<=0 | Invalid age |
-1-10 | You are too young to play the game |
->10 | You can play this game |
+
+| Age Input     | Output                              |
+| ------------- |:-----------------------------------:|
+| <=0           | Invalid age                         |
+| 1-10          | You are too young to play the game  |
+| >10           | You can play this game              |
+
 
 #### Example 1
 ```
